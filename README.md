@@ -16,4 +16,4 @@ Land虽然是个小服，但内容却不少。
 
 服主还制作了资源包（现已停更），玩家可以投稿歌曲在服务器播放。
 
-2025年暑假，Land新增**CreateLand世界**，本世界数据和生存世界隔离。玩家终于可以在Land玩到创造模式了！除此之外，服务器还有**放大化世界**。这些扩展世界由插件[https://modrinth.com/plugin/multiverse-core Multiverse-Core]实现。
+2025年暑假，Land新增**CreateLand世界**，本世界数据和生存世界隔离。玩家终于可以在Land玩到创造模式了！除此之外，服务器还有**放大化世界**。这些扩展世界由插件[Multiverse-Core](https://modrinth.com/plugin/multiverse-core)实现。
